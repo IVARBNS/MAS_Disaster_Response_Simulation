@@ -1,7 +1,7 @@
 
 # 🧠 Disaster Response Simulation - Multi-Agent System (Mesa)
 
-<img src="images/simulation.png" alt="Simulation Running" width="600" height="400"/>
+<img src="images/screenshot.png" alt="Simulation Running" width="600" height="400"/>
 
 ## 📝 Description
 
